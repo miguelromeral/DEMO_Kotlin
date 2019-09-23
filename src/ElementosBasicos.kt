@@ -52,7 +52,7 @@ fun elementales(){
     val str = "$s.length is ${s.length}"
 
     // Caracteres (con comillas simples)
-    var letra: Char = 'A'
+    var letra: Char = 'ClasesYObjetos.A'
 
     // Operadores aritméticos
     var r1 = 1 + 2

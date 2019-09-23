@@ -1,6 +1,6 @@
 
 // Declaración del paquete
-package paquete
+package ClasesYObjetos
 
 // Declaración de función
 fun funcion(){}

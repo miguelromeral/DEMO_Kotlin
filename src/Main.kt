@@ -1,5 +1,5 @@
-import paquete.Customer1
-import paquete.Customer2
+import ClasesYObjetos.Customer1
+import ClasesYObjetos.Customer2
 
 /** Created by MiguelRomeral */
 
